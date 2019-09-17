@@ -11,3 +11,5 @@ You can download via this link..https://chromedriver.chromium.org/downloads
 driver=webdriver.chrome("path of this chromer webdriver")
 for example
 driver = webdriver.Chrome("/home/arun/Downloads/chromedriver") 
+
+Here i have used google translator via selenium webdriver.
