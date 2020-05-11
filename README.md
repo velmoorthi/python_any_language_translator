@@ -1,15 +1,7 @@
 # python_any_language_translator
 
-By using my application you can translate words from any language to any language without using any 3rd party module.
-I have used only selenium webdriver.
-
-steps:
-
-Download chrome webdriver based on which version of chrome you are using
-You can download via this link..https://chromedriver.chromium.org/downloads
-
-driver=webdriver.chrome("path of this chromer webdriver")
-for example
-driver = webdriver.Chrome("/home/arun/Downloads/chromedriver") 
-
-Here i have used google translator via selenium webdriver.
+Requirements:-
+     selenium      - install using this command 'pip install selenium'
+     chrome driver - download chromedriver.exe from this link 'https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.138/'
+     
+    
